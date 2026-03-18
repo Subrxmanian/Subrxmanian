@@ -1,3 +1,5 @@
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+
 <h1 align="left">
   Hi 👋, I'm <strong>Subramanian</strong>
 </h1>
@@ -28,7 +30,7 @@ I focus on **UI optimization, real-time features, and smooth user experience**.
 - 💼 LinkedIn: https://www.linkedin.com/in/subramanian-m-0b5041247/  
 - 💻 GitHub: https://github.com/Subrxmanian  
 - 📚 GeeksforGeeks: https://www.geeksforgeeks.org/user/srianandhavel9w3n/  
-- 🌍 Portfolio: https://learning-alpha-two.vercel.app/subramanian  
+- 🌍 Portfolio: https://portfolio-two-gold-buhmqk9wiq.vercel.app/ 
 
 ---
 
